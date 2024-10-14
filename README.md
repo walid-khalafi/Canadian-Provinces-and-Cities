@@ -1,4 +1,4 @@
-# Canadian Cities Database
+# Countries, Provinces And Cities Database
 
 A comprehensive database of Canadian cities, provinces, and territories.
 
@@ -13,19 +13,18 @@ A comprehensive database of Canadian cities, provinces, and territories.
 
 ## Introduction
 
-This repository contains a CSV file listing cities in Canada, organized by province and territory. The data includes country, ISO code, state (province or territory), abbreviation, city, and zip code.
+This repository contains a CSV file listing provinces and cities , organized by province and territory. The data includes country, ISO code, state (province or territory), abbreviation, city, and zip code.
 
 ## Data Sources
 
 The data in this CSV file was compiled from various sources, including:
 
-* Government of Canada websites
+* Government websites
 * Provincial and territorial government websites
 * Online directories and databases
 
 ## File Details
 
-* **File Name:** canadian_cities.csv
 * **Format:** Comma Separated Values (CSV)
 * **Columns:**
 	+ Country
@@ -34,7 +33,6 @@ The data in this CSV file was compiled from various sources, including:
 	+ Abbreviation
 	+ City
 	+ ZipCode
-* **Rows:** Over 300 cities across Canada
 
 ## Usage
 
