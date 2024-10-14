@@ -34,7 +34,7 @@ The data in this CSV file was compiled from various sources, including:
 	+ Abbreviation
 	+ City
 	+ ZipCode
-* **Rows:** Over 1,000 cities across Canada
+* **Rows:** Over 300 cities across Canada
 
 ## Usage
 
